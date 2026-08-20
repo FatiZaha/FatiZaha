@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with **improving large‑scale app performance, best practices for CI/CD, and production‑grade testing strategies**.  
 - 💬 Ask me about **Java / Spring Boot, C#, Angular, React, Next.js, .NET MAUI, REST APIs, and software design patterns**.
 - 🚀 Explore my work : **[Portfolio](https://fatizaha.github.io/portfolio/)**.
-- 📫 How to reach me: **fatimazahra.zaha1504@gmail.com** or **[LinkedIn](https://linkedin.com/in/fatima-zahra-zaha)**.
+- 📫 How to reach me: **zaha.fz@outlook.com** or **[LinkedIn](https://linkedin.com/in/fatima-zahra-zaha)**.
 - 😄 Pronouns: **She/Her**.  
 - ⚡ Fun fact: **I love drawing and music, and I often sketch UI ideas before implementing them in code.**
 
